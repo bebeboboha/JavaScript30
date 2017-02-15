@@ -2,8 +2,8 @@
 
 ## html tag
 
-1. **<kbd>** : keyboard input 
-2. **<audio>** : sound MP3、Wav、Ogg
+1. **kbd** : keyboard input 
+2. **audio** : sound MP3、Wav、Ogg
 3. data-key : 
     1. **data-* :**
         1. 用於存儲頁面的自定義數據 
