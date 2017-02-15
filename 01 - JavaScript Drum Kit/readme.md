@@ -2,10 +2,10 @@
 
 ## html tag
 
-1. **<kbd> : keyboard input **
-2. **<audio> : sound MP3、Wav、Ogg**
-3. **data-key : **。
-    1. **data-* **
+1. **<kbd>** : keyboard input 
+2. **<audio>** : sound MP3、Wav、Ogg
+3. data-key : 
+    1. **data-* :**
         1. 用於存儲頁面的自定義數據 
         2. 賦予我們在所有html元素上遷入自定義data屬性的能力
         3. 數據能被JavaScript應用
