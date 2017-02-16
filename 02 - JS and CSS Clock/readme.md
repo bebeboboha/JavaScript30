@@ -2,11 +2,11 @@
 
 ## CSS
 
-1. **transform-origin : ** Set a rotated element's base placement
+1. **transform-origin :** Set a rotated element's base placement
 
 ## JavaScript
 
-1. **setInterval(code,millisec[,"lang"]) : ** 可按照指定的周期（以毫秒來記）來設定函數會計算表達式。
+1. **setInterval(code,millisec[,"lang"]) :** 可按照指定的周期（以毫秒來記）來設定函數會計算表達式。
 
 ## Clock
 
