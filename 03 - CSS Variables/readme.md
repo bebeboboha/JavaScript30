@@ -15,7 +15,7 @@ range、color
 
 可按照指定的周期（以毫秒來記）來設定函數會計算表達式。
 ```js
-setInterval(code,millisec[,"lang"])
+	setInterval(code,millisec[,"lang"])
 ```
 
 ## Clock
