@@ -2,6 +2,10 @@
 - [x] [JS + CSS Clock](https://github.com/bebeboboha/JavaScript30/tree/master/02%20-%20JS%20and%20CSS%20Clock)
 - [x] [CSS Variables](https://github.com/bebeboboha/JavaScript30/tree/master/03%20-%20CSS%20Variables)
 - [x] [Array Cardio, Day 1](https://github.com/bebeboboha/JavaScript30/tree/master/04%20-%20Array%20Cardio%20Day%201)
+# JavaScript30
+
+## Checklist
+
 - [x] [Flex Panel Gallery](https://github.com/bebeboboha/JavaScript30/tree/master/05%20-%20Flex%20Panel%20Gallery)
 - [x] [Type Ahead](https://github.com/bebeboboha/JavaScript30/tree/master/06%20-%20Type%20Ahead)
 - [x] [Array Cardio, Day 2](https://github.com/bebeboboha/JavaScript30/tree/master/07%20-%20Array%20Cardio%20Day%202)
