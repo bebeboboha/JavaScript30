@@ -18,7 +18,7 @@ method of Array object that accept a callback function as its parameter
 ## Other
 
 * **textContent :** 取text
-* **ES6 :**
+* **JaveScript**
 ```js
 a>b ? 1:-1;
 ```
