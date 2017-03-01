@@ -9,7 +9,7 @@
 - [x] [Flex Panel Gallery](https://github.com/bebeboboha/JavaScript30/tree/master/05%20-%20Flex%20Panel%20Gallery)
 - [x] [Type Ahead](https://github.com/bebeboboha/JavaScript30/tree/master/06%20-%20Type%20Ahead)
 - [x] [Array Cardio, Day 2](https://github.com/bebeboboha/JavaScript30/tree/master/07%20-%20Array%20Cardio%20Day%202)
-- [ ] Fun with HTML5 Canvas
+- [x] [Fun with HTML5 Canvas](https://github.com/bebeboboha/JavaScript30/tree/master/08%20-%20Fun%20with%20HTML5%20Canvas)
 - [ ] Dev Tools Domination
 - [ ] Hold Shift and Check Checkboxes
 - [ ] Custom Video Player
