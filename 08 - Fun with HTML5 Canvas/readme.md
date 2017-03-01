@@ -12,7 +12,7 @@ const canvas = document.querySelector('#draw');
 const ctx = canvas.getContext('2d');
 ```
 * **width / height**
- ```JS
+```JS
 canvas.width = window.innerWidth; // 設定寬
 canvas.height = window.innerHeight; // 設定高
 ```
