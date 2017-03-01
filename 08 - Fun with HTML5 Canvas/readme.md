@@ -5,7 +5,7 @@
 
 * **渲染環境(rendering context)**
 一開始canvas為空白，需要先存取渲染環境在上面繪圖，然後才會顯現影像。
-<canvas> 有一個method叫getContext()，透過此方法可以取得渲染環境及其繪圖函數(function)；
+canvas有一個method叫getContext()，透過此方法可以取得渲染環境及其繪圖函數(function)；
 getContext()輸入參數只有渲染環境類型一項，像2D繪圖，就是輸入”2d”。
 ```JS
 const canvas = document.querySelector('#draw');
