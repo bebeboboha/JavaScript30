@@ -17,7 +17,7 @@ canvas.width = window.innerWidth; // 設定寬
 canvas.height = window.innerHeight; // 設定高
 ```
 * **style**
-```KS
+```JS
 ctx.strokeStyle = '#BADA55'; 
 // 設定勾勒圖形時用的顏色。
 ctx.lineJoin = 'round'; 
