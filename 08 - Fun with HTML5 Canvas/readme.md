@@ -5,7 +5,7 @@
 
 * **渲染環境(rendering context)**
 	* 一開始canvas為空白，需要先存取渲染環境在上面繪圖，然後才會顯現影像。
-	* canvas有一個method叫getContext()，透過此方法可以取得渲染環境及其繪圖函數(function)；
+	* canvas有一個method叫getContext()，透過此方法可以取得渲染環境及其繪圖函數(function)。
 	* getContext()輸入參數只有渲染環境類型一項，像2D繪圖，就是輸入”2d”。
 ```JS
 const canvas = document.querySelector('#draw');
@@ -29,10 +29,10 @@ ctx.lineWidth = 100
 ```
 * **繪製路徑**
 ```JS
-beginPath() // 開始一段路徑
-moveTo(x,y) // 起始點
-lineTo(x,y) // 結束點
-stroke() // 實際繪出通過moveTo及lineTo的路徑，預設是黑色
+.beginPath() // 開始一段路徑
+.moveTo(x,y) // 起始點
+.lineTo(x,y) // 結束點
+.stroke() // 實際繪出通過moveTo及lineTo的路徑，預設是黑色
 ```
 ## Javascript
 * innerWidth / innerHeight
