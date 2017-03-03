@@ -11,7 +11,7 @@
 - [x] [07 Array Cardio, Day 2](https://github.com/bebeboboha/JavaScript30/tree/master/07%20-%20Array%20Cardio%20Day%202)
 - [x] [08 Fun with HTML5 Canvas](https://github.com/bebeboboha/JavaScript30/tree/master/08%20-%20Fun%20with%20HTML5%20Canvas)
 - [x] [09 Dev Tools Domination](https://github.com/bebeboboha/JavaScript30/tree/master/09%20-%20Dev%20Tools%20Domination)
-- [ ] Hold Shift and Check Checkboxes
+- [x] [Hold Shift and Check Checkboxes](https://github.com/bebeboboha/JavaScript30/tree/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes)
 - [ ] Custom Video Player
 - [ ] Key Sequence Detection
 - [ ] Slide in on Scroll
