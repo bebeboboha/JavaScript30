@@ -13,8 +13,11 @@ function togglePlay(){
 	// }else{
 	// 	video.pause();
 	// }
-	const method = video.paused ? 'play':'pause';
-	video[method]();
+
+	// const method = video.paused ? 'play':'pause';
+	// video[method]();
+	
+	video[video.paused? 'play':'pause']();
 }
 
 function updateButton(){
