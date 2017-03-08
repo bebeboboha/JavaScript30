@@ -14,21 +14,21 @@
 - [x] [10 Hold Shift and Check Checkboxes](https://github.com/bebeboboha/JavaScript30/tree/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes)
 - [x] [11 Custom Video Player](https://github.com/bebeboboha/JavaScript30/tree/master/11%20-%20Custom%20Video%20Player)
 - [x] [12 Key Sequence Detection](https://github.com/bebeboboha/JavaScript30/tree/master/12%20-%20Key%20Sequence%20Detection)
-- [ ] Slide in on Scroll
-- [ ] JavaScript References vs. Copying
-- [ ] LocalStorage
-- [ ] Mouse Move Shadow
-- [ ] Sort Without Articles
-- [ ] Adding Up Times with Reduce
-- [ ] Webcam Fun
-- [ ] Speech Detection
-- [ ] Geolocation
-- [ ] Follow Along Link Highlighter
-- [ ] Speech Synthesis
-- [ ] Sticky Nav
-- [ ] Event Capture, Propagation, Bubbling, and Once
-- [ ] Stripe Follow Along Nav
-- [ ] Click and Drag
-- [ ] Video Speed Controller
-- [ ] Countdown Timer
-- [ ] Whack A Mole
+- [ ] 13 Slide in on Scroll
+- [ ] 14 JavaScript References vs. Copying
+- [ ] 15 LocalStorage
+- [ ] 16 Mouse Move Shadow
+- [ ] 17 Sort Without Articles
+- [ ] 18 Adding Up Times with Reduce
+- [ ] 19 Webcam Fun
+- [ ] 20 Speech Detection
+- [ ] 21 Geolocation
+- [ ] 22 Follow Along Link Highlighter
+- [ ] 23 Speech Synthesis
+- [ ] 24 Sticky Nav
+- [ ] 25 Event Capture, Propagation, Bubbling, and Once
+- [ ] 26 Stripe Follow Along Nav
+- [ ] 27 Click and Drag
+- [ ] 28 Video Speed Controller
+- [ ] 29 Countdown Timer
+- [ ] 30 Whack A Mole
