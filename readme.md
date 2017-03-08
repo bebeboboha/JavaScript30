@@ -13,7 +13,7 @@
 - [x] [09 Dev Tools Domination](https://github.com/bebeboboha/JavaScript30/tree/master/09%20-%20Dev%20Tools%20Domination)
 - [x] [10 Hold Shift and Check Checkboxes](https://github.com/bebeboboha/JavaScript30/tree/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes)
 - [x] [11 Custom Video Player](https://github.com/bebeboboha/JavaScript30/tree/master/11%20-%20Custom%20Video%20Player)
-- [ ] Key Sequence Detection
+- [x] Key Sequence Detection
 - [ ] Slide in on Scroll
 - [ ] JavaScript References vs. Copying
 - [ ] LocalStorage
