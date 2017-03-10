@@ -47,7 +47,7 @@ console.log(players,team) // ["Wes", "Poppy"] ["Wes", "Poppy"]
 team[1] = 'woooo';
 console.log(players,team) // ["Wes", "woooo"] ["Wes", "woooo"]
 ```
-### 解決call by reference
+### copy call by reference
 * xxx.slice()
 * [].concat(xxx)
 * [...xxx]
@@ -72,7 +72,7 @@ console.log(p2.name,person.name) // peggy peggy
 person.name = 'bebo';
 console.log(p2.name,person.name) // bebo bebo
 ```
-### 解決call by reference
+### copy call by reference
 * Object.assign({}, xxx , {"想修改的name:value"})
 * {...xxx} ES6尚未支援
 * 以上只能用到1層 nested的無效 會reference
