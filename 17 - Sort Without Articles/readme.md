@@ -3,7 +3,7 @@
 String.trim()方法用來去除字串前後的空白<br>此方法並不會改變原來的字串，而是傳回一個新的字串。
 
 
-```jsx=
+```js
 <script type="text/javascript">
  var str="    我是   字串嗨嗨   ";
  console.log(str.trim());
@@ -16,7 +16,7 @@ String.trim()方法用來去除字串前後的空白<br>此方法並不會改變
 
 ## .join()
 join()方法用來把Array中的所有元素放入一個字串中。<br>元素是通過指定的分隔符號進行分隔。
-```jsx=
+```js
 <script type="text/javascript">
 
 var arr = new Array(3)
