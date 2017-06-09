@@ -189,9 +189,16 @@ const second = timenode
     const [mins,sec] = time.split(":").map(parseFloat)
     return mins*60+sec
   })
-  .reduce((total,vidsec) => total + vidsec)
+  .reduce((total,vidsec) => total + vidsec);
+  let secondsLeft = second;
+    const hours = Math.floor(secondsLeft / 3600);
+    secondsLeft = secondsLeft % 3600;
 
-console.log(second)
+    const mins = Math.floor(secondsLeft / 60);
+    secondsLeft = secondsLeft % 60;
+
+    console.log(hours, mins, secondsLeft);
+
 </script>
 </body>
 </html>
