@@ -1,4 +1,4 @@
-# Da19 - webcam fun
+# Day19 - webcam fun
 
 ## .getUserMedia()
 在使用getUserMedia()的api取得視訊鏡頭影像，須在安全連接的模式下才可以。
