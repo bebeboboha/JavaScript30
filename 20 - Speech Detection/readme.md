@@ -14,12 +14,11 @@ const recognition = new SpeechRecognition();
 控制每個 recognition 會傳連續的結果還是只回傳單一結果。預設為回傳單一結果 (false.)
 ### SpeechRecognition.interimResults
 控制臨時結果是否回傳。 true 回傳，false 不回傳。臨時結果指的是所有非最終 (Final) 結果的結果。 (例如 : SpeechRecognitionResult.isFinal 特性為 false.)
-### SpeechRecognition.start()
-.start()方法是開啟語音識別的服務，偵測輸入的語音。
-
-其他相關的使用方法 [點此](https://developer.mozilla.org/zh-TW/docs/Web/API/SpeechRecognition)
-
 ```js
 recognition.interimResults = true;
 // 返回即時語音 即SpeechRecognitionResult.isFinal 為否時的內容
 ```
+### SpeechRecognition.start()
+.start()方法是開啟語音識別的服務，偵測輸入的語音。
+
+其他相關的使用方法 [點此](https://developer.mozilla.org/zh-TW/docs/Web/API/SpeechRecognition)
